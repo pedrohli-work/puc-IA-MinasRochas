@@ -1,4 +1,6 @@
 🧠 Classificação de Minas vs Rochas usando Sonar
+
+
 Este projeto aplica Análise Exploratória de Dados (EDA), Redução de Dimensionalidade (PCA e LDA) e Modelagem de Machine Learning (K-Nearest Neighbors - KNN) para classificar sinais de sonar como minas ou rochas.
 
 O conjunto de dados utilizado foi o Sonar Mines vs Rocks Dataset disponível no Repositório UCI Machine Learning.
